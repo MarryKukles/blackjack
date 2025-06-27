@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte da **A3 - Trabalho Prático** do Centro
 
 ## 🎮 Sobre o jogo
 
-O Blackjack, também conhecido como 21, é um jogo de cartas onde o objetivo é ter uma mão com valor mais próximo de 21 do que o dealer, sem ultrapassar esse número.
+O Blackjack, também conhecido como 21, é um clássico jogo de cartas onde o objetivo é ter uma mão com valor mais próximo de 21 do que o dealer, sem ultrapassar esse número. Este projeto traz uma versão simplificada e funcional do jogo com regras fiéis ao jogo original.
 
 Este projeto conta com:
 
@@ -33,6 +33,17 @@ Este projeto conta com:
 
 * Java
 * Swing (para a interface gráfica)
+* Paradigma orientado a objetos
+* Padrão MVC simplificado
+
+---
+
+## ✅ Funcionalidades
+
+* Interface visual intuitiva
+* Regras clássicas do Blackjack (valores de cartas, decisões do dealer, etc.)
+* Feedback visual (vitória, derrota, empate)
+* Reinício do jogo com um clique
 
 ---
 
@@ -41,6 +52,8 @@ Este projeto conta com:
 * Adicionar animações para as cartas
 * Implementar sons do jogo
 * Suporte a múltiplos jogadores
+
+---
 
 ## 🚀 Como rodar
 
@@ -64,4 +77,4 @@ java Main
 
 ---
 
-📌 **Desenvolvido como trabalho acadêmico com fins educativos.**
+📌 **Desenvolvido como trabalho acadêmico da graduação em Engenharia de Software, com fins educativos.**
