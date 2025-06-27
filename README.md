@@ -36,6 +36,13 @@ Este projeto conta com:
   
 ---
 
+## 🧠 Conceitos aplicados
+
+* Orientação a Objetos
+* Padrão MVC (simplificado)
+
+---
+
 ## ✅ Funcionalidades
 
 * Interface visual intuitiva
