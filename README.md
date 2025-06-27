@@ -33,9 +33,7 @@ Este projeto conta com:
 
 * Java
 * Swing (para a interface gráfica)
-* Paradigma orientado a objetos
-* Padrão MVC simplificado
-
+  
 ---
 
 ## ✅ Funcionalidades
