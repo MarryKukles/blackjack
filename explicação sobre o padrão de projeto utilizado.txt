@@ -1,0 +1,15 @@
+A3 - Trabalho Prático: Elaboração de um Jogo de Cartas em Java.
+
+Grupo: Maria Eduarda Dias de Morais.
+Rafael Magalhães Rocha Provezano de Castro.
+Artur dos Santos Alves Maia.
+
+Este código implementa o jogo Blackjack em Java, com uma interface gráfica simples usando Swing. O padrão de projeto utilizado aqui é o padrão MVC (Model-View-Controller), embora de uma forma simplificada.
+
+- *Model (Modelo)*: A classe BlackJack é responsável por manter o estado do jogo (como o baralho, as mãos do jogador e do dealer, etc.) e implementar a lógica do jogo (como distribuir cartas, calcular pontuações, etc.).
+
+- *View (Visão)*: A interface gráfica é representada pela classe JFrame, JPanel, e os botões JButton. O método paintComponent(Graphics g) na classe gamePanel desenha os componentes do jogo (cartas, mensagem de vitória/derrota) na tela.
+
+- *Controller (Controlador)*: Os botões (hitButton, stayButton, restartButton) atuam como controladores, ou seja, eles respondem às interações do usuário e chamam os métodos apropriados na classe BlackJack para modificar o estado do jogo.
+
+Embora não esteja estritamente seguindo o padrão MVC, este código apresenta uma separação básica entre lógica de negócios (modelo), interface do usuário (visão) e controle de interações do usuário (controlador). Isso torna o código mais modular e fácil de entender e manter.
